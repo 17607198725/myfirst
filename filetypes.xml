@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="LoveMeAgain.mp3" type="Native" />
+      <mapping pattern="John Newman - Love Me Again.mp3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

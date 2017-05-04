@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
+</keymap>

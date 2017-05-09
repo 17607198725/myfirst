@@ -8,6 +8,9 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorScrollDown" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -23,4 +26,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
